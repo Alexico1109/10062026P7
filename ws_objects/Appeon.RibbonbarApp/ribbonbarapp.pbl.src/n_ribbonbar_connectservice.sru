@@ -95,7 +95,7 @@ Choose Case is_connectfrom
 		as_logid			= ""
 		as_logpass		= ""
 		as_server		= ""
-		as_dbparm		= "ConnectString='DSN=PB Demo DB V2022R3;UID=dba;PWD=sql'"
+		as_dbparm		= "ConnectString='DSN=PB Demo DB V2025R2;UID=dba;PWD=sql'"
         
 
 		as_lock			= ""
